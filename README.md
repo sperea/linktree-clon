@@ -1,7 +1,7 @@
 Linktree Clone
 ==============
 
-![Work In Progress](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![](https://img.shields.io/badge/-Work%20in%20Progress-f00?style=for-the-badge)
 
 This project is a clone of [Linktree](https://linktr.ee/), a tool that allows users to create a page with links to their social media profiles, websites, and other online resources. This clone is designed to be simple, customizable, and easy to deploy.
 
